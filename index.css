@@ -1,8 +1,7 @@
-.my-first-p {
-    color: aqua;
-    font-size: 80px;
+<style>
+body{
+    background-color: aqua;
+    
 }
-p {
-    color: red;
-}
+</style>
 
